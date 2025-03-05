@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+matplotlib
+scikit-learn
+tensorflow
+databricks
+grafana-api
