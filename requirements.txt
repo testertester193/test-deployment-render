@@ -8,3 +8,4 @@ scikit-learn
 tensorflow
 databricks
 grafana-api
+gunicorn
